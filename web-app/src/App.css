@@ -1,0 +1,22 @@
+.main-title {
+  padding-right: 30px;
+}
+
+.top-bar {
+  flex-grow: 1;
+}
+
+.nav {
+  flex-grow: 1;
+}
+
+.metamask-connect-button {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#image-content-input {
+  margin-top: 8px;
+}
